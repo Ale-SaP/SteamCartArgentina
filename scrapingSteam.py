@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 from bs4.element import AttributeValueWithCharsetSubstitution
-from discord.ext.commands.errors import PrivateMessageOnly
 import requests
 import lxml
 import openpyxl
